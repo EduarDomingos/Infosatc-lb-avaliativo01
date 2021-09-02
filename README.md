@@ -8,8 +8,10 @@
 ## Meu nome é Eduardo Domingos!
 
 ### Sou da turma 2190
+
+#### Tenho aula com a professora: Mariane Joquim Melo
  
-#### Sobre mim:
+##### Sobre mim:
 
 O que fasso: Sou estudante de python!
 
