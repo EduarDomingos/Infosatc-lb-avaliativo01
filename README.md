@@ -7,8 +7,9 @@
 
 ## Meu nome é Eduardo Domingos!
 
+### Sou da turma 2190
  
-### Sobre mim:
+#### Sobre mim:
 
 O que fasso: Sou estudante de python!
 
