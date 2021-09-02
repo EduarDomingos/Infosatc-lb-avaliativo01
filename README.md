@@ -13,7 +13,7 @@
  
 ##### Sobre mim:
 
-O que fasso: Sou estudante de python!
+O que faço: Sou estudante de python!
 
 Onde eu vivo: Moro no brasil, no estado de santa catarina na cidade de criciuma.
 
